@@ -25,5 +25,22 @@
   "dependencies": {
     "laravel-echo": "^1.2.5",
     "pusher-js": "^4.0.0"
-  }
+  },
+  "name": "chat",
+  "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+  "version": "1.0.0",
+  "main": "webpack.mix.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianfonolla/chat.git"
+  },
+  "author": "Cristian <cristian.fonolla@gmail.com> (https://github.com/cristianfonolla)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianfonolla/chat/issues"
+  },
+  "homepage": "https://github.com/cristianfonolla/chat#readme"
 }
