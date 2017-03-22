@@ -57,7 +57,7 @@ window.io = io
 
 // window.Echo = new Echo({
 //     broadcaster: 'pusher',
-//     key: '0beb4667296e55481ee9',
+//     key: '9514e99e1ce7f8e6d8a9',
 //     cluster: 'mt1',
 //     encrypted: true
 // });
@@ -67,4 +67,4 @@ window.Echo = new Echo({
     host: window.location.hostname + ':6001'
 });
 
-console.log(window.location.hostname + ':6001');
+console.log(window.location.hostname)
