@@ -53,7 +53,7 @@ Vue.component('login-input-field', require('./components/LoginInputField.vue'));
 import Echo from "laravel-echo"
 
 import io from "socket.io-client"
-window.io=io
+window.io = io
 
 // window.Echo = new Echo({
 //     broadcaster: 'pusher',
