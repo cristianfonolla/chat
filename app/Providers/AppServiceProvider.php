@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Cristian\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

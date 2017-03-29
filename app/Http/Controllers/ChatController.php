@@ -1,16 +1,16 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace Cristian\Http\Controllers;
 
-use App\Events\MessageSent;
-use App\Message;
+use Cristian\Events\MessageSent;
+use Cristian\Message;
 use Auth;
 use Illuminate\Http\Request;
 
 /**
  * Class ChatController.
  *
- * @package App\Http\Controllers
+ * @package Cristian\Http\Controllers
  */
 class ChatController extends Controller
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Cristian;
 
 use Illuminate\Database\Eloquent\Model;
 
