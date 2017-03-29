@@ -64,7 +64,7 @@ window.io = io
 
 window.Echo = new Echo({
     broadcaster: 'socket.io',
-    host: 'https://laravel.echo.server.2dam.acacha.org:6002',
+    host: window.Laravel.echoServerURL,
     namespace: 'Cristian.Events'
 });
 
